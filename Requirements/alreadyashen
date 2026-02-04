@@ -7,4 +7,4 @@ Game MUST display current score for both players.
 Ball MUST reverse direction when hitting a paddle.
 Ball MUST bounce when hitting play arena ceiling/floor.
 Player MUST receive point when ball exists play arena on opposite side.
-Game MUST reset ball to cetner of play arena when point is scored.
+Game MUST reset ball to center of play arena when point is scored.
